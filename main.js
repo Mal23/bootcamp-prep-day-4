@@ -17,9 +17,11 @@ function greet() {
     console.log(greeting);
 
     // display greeting
-
-
-// remove prompt
+    var greeter = document.getElementById('greeter');
+    console.log(greeter);
+    greeter.textContent = greeting;
+     
+    // remove prompt
 
 
 }
