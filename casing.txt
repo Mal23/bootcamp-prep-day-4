@@ -1,0 +1,13 @@
+
+camelCase (JS)
+twoHumpCamel
+
+TitleCase (c#)
+PascalCase
+
+kebob-case
+fruit-meat-veggie
+
+snake_case (python)
+
+README (used for magic numbers, license, constants)
